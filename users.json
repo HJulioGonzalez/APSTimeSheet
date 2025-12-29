@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Ada Lovelace",
+    "about": "Mathematician, writer",
+    "userId": "dbfe53c3c4d568240378b0c6",
+    "cards": [
+      {
+        "cardId": "5d208fb50fdbbf001ffdf72a",
+        "cardName": "First Computer"
+      }
+    ]
+  },
+  {
+    "name": "Tim Berners-Lee",
+    "about": "Inventor, scientist",
+    "userId": "d285e3dceed844f902650f40",
+    "cards": [
+      {
+        "cardId": "5d208fe20fdbbf001ffdf72b",
+        "cardName": "First Computer"
+      }
+    ]
+  },
+  {
+    "name": "Alan Kay",
+    "about": "Computer scientist",
+    "userId": "7d8c010a1c97ca2654997a95",
+    "cards": [
+      {
+        "cardId": "5d208ff30fdbbf001ffdf72c",
+        "cardName": "First Computer"
+      }
+    ]
+  },
+  {
+    "name": "Alan Turing",
+    "about": "Mathematician, cryptanalyst",
+    "userId": "f20c9c560aa652a72cba323f",
+    "cards": [
+      {
+        "cardId": "5d2090310fdbbf001ffdf72d",
+        "cardName": "First Computer"
+      }
+    ]
+  },
+  {
+    "name": "Bret Victor",
+    "about": "Designer, engineer",
+    "userId": "8340d0ec33270a25f2413b69",
+    "cards": [
+      {
+        "cardId": "5d2090470fdbbf001ffdf72e",
+        "cardName": "First Computer"
+      }
+    ]
+  },
+  {
+    "name": "Douglas Engelbart",
+    "about": "Engineer, inventor",
+    "userId": "3c8c16ee9b1f89a2f8b5e4b2",
+    "cards": [
+      {
+        "cardId": "5d2090710fdbbf001ffdf72f",
+        "cardName": "First Computer"
+      }
+    ]
+  }
+]
